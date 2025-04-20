@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "CR2032 SMD Holder")(type "KiCad")(uri "/Users/matteo/Documents/KiCad/9.0/footprints/BHSD-2032-SM")(options "")(descr ""))
+)

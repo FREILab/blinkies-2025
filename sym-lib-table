@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CR2032 Holder")(type "KiCad")(uri "/Users/matteo/Documents/KiCad/9.0/symbols/BHSD-2032-SM.kicad_sym")(options "")(descr ""))
+)
