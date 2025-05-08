@@ -1,4 +1,0 @@
-
-(fp_lib_table
-  (lib (name "Elektro_Topper_SVG2shenzen")(type KiCad)(uri "$(KIPRJMOD)/Elektro_Topper_SVG2shenzen.pretty")(options "")(descr ""))
-)
