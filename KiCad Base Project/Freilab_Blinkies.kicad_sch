@@ -818,7 +818,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Horizontal_O6.35mm_Z9.0mm"
+		(property "Footprint" "LED_SMD:BigPad_5mm LED"
 			(at 156.21 83.82 0)
 			(effects
 				(font
@@ -895,7 +895,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Horizontal_O6.35mm_Z9.0mm"
+		(property "Footprint" "LED_SMD:BigPad_5mm LED"
 			(at 156.21 99.06 0)
 			(effects
 				(font
@@ -972,7 +972,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Horizontal_O6.35mm_Z9.0mm"
+		(property "Footprint" "LED_SMD:BigPad_5mm LED"
 			(at 156.21 68.58 0)
 			(effects
 				(font
@@ -1049,7 +1049,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm"
+		(property "Footprint" "Button_Switch_THT:SW_Toggle_2P1T_5pin"
 			(at 154.94 120.65 0)
 			(effects
 				(font
