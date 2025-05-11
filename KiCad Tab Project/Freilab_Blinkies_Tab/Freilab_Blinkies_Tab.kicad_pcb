@@ -550,16 +550,17 @@
 		(layer "F.Cu")
 		(uuid "0edea491-4482-45cd-b2c1-fa904d5adbf7")
 	)
-	(gr_rect
-		(start 135.044124 69.947064)
-		(end 140.949991 72.530435)
+	(gr_poly
+		(pts
+			(xy 135.044124 69.947064) (xy 140.949991 69.947064) (xy 140.949991 72.530435) (xy 135.044124 72.530435)
+		)
 		(stroke
 			(width 0.2)
 			(type solid)
 		)
 		(fill yes)
 		(layer "F.Cu")
-		(uuid "af3bc794-4db6-404b-9aad-4dd4968a1efc")
+		(uuid "1805228b-bf73-4eed-a960-63c2a1032544")
 	)
 	(gr_rect
 		(start 135.046975 69.924663)
@@ -659,7 +660,7 @@
 		(uuid "1f5f3f88-3e2c-4778-94bc-a8ff236e3650")
 	)
 	(gr_line
-		(start 137 71.505385)
+		(start 137 71.005356)
 		(end 137 70.405385)
 		(stroke
 			(width 0.1)
@@ -669,9 +670,9 @@
 		(uuid "2c28c412-3e51-4207-997e-571d1c7456eb")
 	)
 	(gr_arc
-		(start 136.402902 79.505387)
-		(mid 137.42032 79.07587)
-		(end 137 80.097122)
+		(start 136.50002 79.504511)
+		(mid 137.351955 79.144855)
+		(end 137 80)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -679,26 +680,26 @@
 		(layer "Edge.Cuts")
 		(uuid "2f25bb36-10c3-4360-b7ee-ba2a14c61983")
 	)
+	(gr_arc
+		(start 137 71.005356)
+		(mid 137.353574 71.858959)
+		(end 136.499971 71.505385)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "418fd85d-a2e4-4de3-a2ac-f0bdef4bf8d6")
+	)
 	(gr_line
 		(start 135.5 71.505385)
-		(end 137 71.505385)
+		(end 136.5 71.505385)
 		(stroke
 			(width 0.1)
 			(type default)
 		)
 		(layer "Edge.Cuts")
 		(uuid "446d0a22-b3e0-40ac-8c28-853fddcfdb02")
-	)
-	(gr_circle
-		(center 135 79.505385)
-		(end 135.01 79.505385)
-		(stroke
-			(width 0.0001)
-			(type default)
-		)
-		(fill yes)
-		(layer "Edge.Cuts")
-		(uuid "5b70a74b-2f71-4f7f-ba86-7c5114d2bfb1")
 	)
 	(gr_arc
 		(start 135 72.005385)
@@ -712,7 +713,7 @@
 		(uuid "7b743bfc-1e01-4646-9aed-4b8371f7f3d3")
 	)
 	(gr_line
-		(start 136.402902 79.505387)
+		(start 136.5 79.505387)
 		(end 135.499971 79.505385)
 		(stroke
 			(width 0.1)
@@ -723,7 +724,7 @@
 	)
 	(gr_line
 		(start 137 80.6)
-		(end 137 80.086959)
+		(end 137 80)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -761,17 +762,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "d13fea02-34d0-4207-97b8-afb392669d6d")
-	)
-	(gr_circle
-		(center 141 69.905385)
-		(end 141.01 69.905385)
-		(stroke
-			(width 0.0001)
-			(type default)
-		)
-		(fill yes)
-		(layer "Edge.Cuts")
-		(uuid "d28952ab-fbca-437f-837d-4d396c20cfc4")
 	)
 	(gr_arc
 		(start 135.499971 79.505385)
