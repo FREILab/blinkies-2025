@@ -5906,6 +5906,17 @@
 		)
 		(embedded_fonts no)
 	)
+	(gr_circle
+		(center 149.402807 103.061172)
+		(end 165.902807 118.061172)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "B.Mask")
+		(uuid "cc968a1e-ee73-4c58-9902-f64b0d7e9dec")
+	)
 	(gr_arc
 		(start 163.445249 95.745156)
 		(mid 162.989958 95.805097)
