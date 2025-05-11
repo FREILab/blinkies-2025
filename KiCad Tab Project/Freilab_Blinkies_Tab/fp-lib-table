@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Sonstige")(type "KiCad")(uri "/Users/matteo/Documents/Freilab_Blinkies/KiCad Tab Project/custom footprints and symbols")(options "")(descr ""))
+)
